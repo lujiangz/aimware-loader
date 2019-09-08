@@ -1,0 +1,16 @@
+C:\Users\lujiangz\Desktop\AIMWARE-master\AIMWARE-master\v1go\bin\Release\v1go.exe.config
+C:\Users\lujiangz\Desktop\AIMWARE-master\AIMWARE-master\v1go\bin\Release\v1go.exe
+C:\Users\lujiangz\Desktop\AIMWARE-master\AIMWARE-master\v1go\bin\Release\v1go.pdb
+C:\Users\lujiangz\Desktop\AIMWARE-master\AIMWARE-master\v1go\obj\Release\v1go.WaitForGame.resources
+C:\Users\lujiangz\Desktop\AIMWARE-master\AIMWARE-master\v1go\obj\Release\v1go.Loader.resources
+C:\Users\lujiangz\Desktop\AIMWARE-master\AIMWARE-master\v1go\obj\Release\v1go.Login.resources
+C:\Users\lujiangz\Desktop\AIMWARE-master\AIMWARE-master\v1go\obj\Release\v1go.PleaseWait.resources
+C:\Users\lujiangz\Desktop\AIMWARE-master\AIMWARE-master\v1go\obj\Release\v1go.AuthLoad.resources
+C:\Users\lujiangz\Desktop\AIMWARE-master\AIMWARE-master\v1go\obj\Release\v1go.UpdateCheck.resources
+C:\Users\lujiangz\Desktop\AIMWARE-master\AIMWARE-master\v1go\obj\Release\v1go.Properties.Resources.resources
+C:\Users\lujiangz\Desktop\AIMWARE-master\AIMWARE-master\v1go\obj\Release\v1go.PleaseWait2.resources
+C:\Users\lujiangz\Desktop\AIMWARE-master\AIMWARE-master\v1go\obj\Release\v1go.csproj.GenerateResource.cache
+C:\Users\lujiangz\Desktop\AIMWARE-master\AIMWARE-master\v1go\obj\Release\v1go.csproj.CoreCompileInputs.cache
+C:\Users\lujiangz\Desktop\AIMWARE-master\AIMWARE-master\v1go\obj\Release\v1go.exe
+C:\Users\lujiangz\Desktop\AIMWARE-master\AIMWARE-master\v1go\obj\Release\v1go.pdb
+C:\Users\lujiangz\Desktop\AIMWARE-master\AIMWARE-master\v1go\obj\Release\v1go.csprojAssemblyReference.cache
